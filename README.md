@@ -3,26 +3,25 @@
 
 ### 💪 Skills
 <p>
-  <img src="https://img.shields.io/badge/C/C++-61DAFB?style=flat-square"/>
-   <img src="https://img.shields.io/badge/Matlab-61DAFB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Python-61DAFB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/HTML-61DAFB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CSS-61DAFB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-61DAFB?style=flat-square"/>
-  
+  <img src="https://img.shields.io/badge/C/C++-ffc9de?style=flat-square"/>
+   <img src="https://img.shields.io/badge/Matlab-fdd97c?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-fbfdaa?style=flat-square"/>
+  <img src="https://img.shields.io/badge/React-c1f0b2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/HTML-b2e4f0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CSS-d6b2f0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-a9bcff?style=flat-square"/>
 </p>
 
 ### 💪 Tools
 <p>
-   <img src="https://img.shields.io/badge/Visual Studio Code-61DAFB?style=flat-square"/>
-   <img src="https://img.shields.io/badge/Visual Studio-61DAFB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Colab-61DAFB?style=flat-square"/>
+   <img src="https://img.shields.io/badge/Visual Studio Code-ffc9de?style=flat-square"/>
+   <img src="https://img.shields.io/badge/Visual Studio-fdd97c?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Colab-fbfdaa?style=flat-square"/>
 </p>
 
 ### 💪 OS
 
 <p>
-   <img src="https://img.shields.io/badge/Window-61DAFB?style=flat-square"/>
-   <img src="https://img.shields.io/badge/Linux-61DAFB?style=flat-square"/>
+   <img src="https://img.shields.io/badge/Window-c1f0b2?style=flat-square"/>
+   <img src="https://img.shields.io/badge/Linux-b2e4f0?style=flat-square"/>
 </p>
