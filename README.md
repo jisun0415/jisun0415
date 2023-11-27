@@ -10,12 +10,14 @@
   <img src="https://img.shields.io/badge/JAVASCRIPT-61DAFB?style=flat-square"/>
   
 </p>
+
 ### 💪 Tools
 <p>
    <img src="https://img.shields.io/badge/Matlab-61DAFB?style=flat-square"/>
    <img src="https://img.shields.io/badge/Visual Studio Code-61DAFB?style=flat-square"/>
    <img src="https://img.shields.io/badge/Visual Studio-61DAFB?style=flat-square"/>
 </p>
+
 ### 💪 OS
 
 <p>
