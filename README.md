@@ -4,6 +4,8 @@
 ### 💪 Skills
 <p>
   <img src="https://img.shields.io/badge/C/C++-61DAFB?style=flat-square"/>
+   <img src="https://img.shields.io/badge/Matlab-61DAFB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-61DAFB?style=flat-square"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square"/>
   <img src="https://img.shields.io/badge/HTML-61DAFB?style=flat-square"/>
   <img src="https://img.shields.io/badge/CSS-61DAFB?style=flat-square"/>
@@ -13,9 +15,9 @@
 
 ### 💪 Tools
 <p>
-   <img src="https://img.shields.io/badge/Matlab-61DAFB?style=flat-square"/>
    <img src="https://img.shields.io/badge/Visual Studio Code-61DAFB?style=flat-square"/>
    <img src="https://img.shields.io/badge/Visual Studio-61DAFB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Colab-61DAFB?style=flat-square"/>
 </p>
 
 ### 💪 OS
