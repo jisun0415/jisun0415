@@ -21,6 +21,6 @@
 ### 💪 OS
 
 <p>
-   <img src="https://img.shields.io/badge/Window Studio Code-61DAFB?style=flat-square"/>
+   <img src="https://img.shields.io/badge/Window-61DAFB?style=flat-square"/>
    <img src="https://img.shields.io/badge/Linux-61DAFB?style=flat-square"/>
 </p>
